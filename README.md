@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💻 I am a Full Stack developer with a passion for creative problem solving and building new technologies to make people's lives easier!
 
-🔭 Over the last year and a half, I've had the pleasure of learning how Python, Java, C++, Web Development.
+🔭 Over the last year and a half, I've had the pleasure of learning Python, Java, C++, Web Development.
 
 A little about my projects:
 
