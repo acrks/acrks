@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I am a Full Stack developer with a passion for creative problem solving and working with new technologies to make people's lives easier!
+💻 I am a Full Stack developer with a passion for creative problem solving and working with new technologies to better people's lives!
 
 🔭 Over the last year and a half, I've had the pleasure of learning Python, Java, C++, JavaScript, and Ruby. In order to bring them to life, I learned front-end languages such as Rails/React/CSS3/HTML, and also AWS, MongoDB, MERN and AJAX to store all the wonderful data. I've had a lot of fun bringing ideas to life and can't wait for what this path will bring!
 
