@@ -30,4 +30,4 @@ This intensive training gave me the perfect experience working with frameworks i
 I am very excited to apply my talents in the field and work to build the best possible product.
 
 🖱️🎮⚡🏀🏈⚽ A few things about myself: 
-🧑‍🍳  I love to cook, 🏊‍♂️  swim, and 📖 read. I'm an avid soccer fan and am currently learning Spanish. Never above creating an app to prove a point or take a joke way too far.
+🧑‍🍳  I love to cook, 🏊‍♂️  swim, and 📖 read. I'm an avid soccer fan and am currently learning piano. Never above creating an app to prove a point or take a joke way too far.
