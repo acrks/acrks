@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! My name is Alex Crooks, and I am a former political staffer turned software engineer with a passion for making simple solutions to complex problems.
-
-My resume demonstrates my versatility and mastery of several coding languages, both front-end and back-end, as well as relational databases.
+My portfolio demonstrates my versatility and mastery of several coding languages, both front-end and back-end, as well as relational databases.
 
 My most recent experience was a contract with Prepango, using an incredible amount of data from their hundreds of vending machines in international airports and Greyhound stations across the United States. I worked with years of legacy data to build internal tools for their staff to monitor restocks and machine deployment
 
